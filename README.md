@@ -23,6 +23,11 @@
 - Các thành viên trong nhóm clone repository về máy tính cá nhân bằng lệnh `git clone <repository-url>`.
 - Cài đặt các dependencies cần thiết bằng lệnh `npm install` hoặc `yarn install`.
 
+Lưu ý: Không sửa code trực tiếp trên nhánh MAIN.
+
 ## Step 5: Thiết Lập Chi Nhánh (Branch)
-- Quy định cách đặt tên chi nhánh (branch) cho các thành viên (ví dụ: feature/ten-tinh-nang, bugfix/ten-loi).
+
+- Tạo thêm nhánh develop từ nhánh main để làm nhánh chính cho việc phát triển.
+
+- Quy định cách đặt tên chi nhánh (branch) cho các thành viên (ví dụ: yourname/ten-tinh-nang, feature/ten-tinh-nang, bugfix/ten-loi).
 - Mỗi thành viên tạo chi nhánh riêng để làm việc trên các tính năng hoặc sửa lỗi.
