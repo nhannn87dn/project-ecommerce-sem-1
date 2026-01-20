@@ -6,7 +6,7 @@
 }
 
 .logo {
-  height: 5em; /* son */
+  height: 4em; /* son */
   padding: 1.5em;
   will-change: filter;
   transition: filter 300ms;
